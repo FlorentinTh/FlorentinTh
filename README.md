@@ -19,7 +19,7 @@
 
 #### 👨‍💻 <samp>Languages & Tech.</samp>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-4d4d4d?style=flat-square&logo=javascript"> <img src="https://img.shields.io/badge/-TypeScript-4d4d4d?style=flat-square&logo=typescript&logoColor=yellow"> <img src="https://img.shields.io/badge/-Python-4d4d4d?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/-Java-4d4d4d?style=flat-square&logo=java"> <img src="https://img.shields.io/badge/-Go-4d4d4d?style=flat-square&logo=go"> <img src="https://img.shields.io/badge/-.NET-4d4d4d?style=flat-square&logo=.net"> <img src="https://img.shields.io/badge/-Bash-4d4d4d?style=flat-square&logo=linux&logoColor=fff"> <img src="https://img.shields.io/badge/-C++-4d4d4d?style=flat-square&logo=c%2B%2B"> <img src="https://img.shields.io/badge/-SQL-4d4d4d?style=flat-square&logo=mariadb&logoColor=blue"> <img src="https://img.shields.io/badge/-HTML-4d4d4d?style=flat-square&logo=html5"> <img src="https://img.shields.io/badge/-CSS-4d4d4d?style=flat-square&logo=css3&logoColor=blue"> <img src="https://img.shields.io/badge/-PHP-4d4d4d?style=flat-square&logo=php"> <img src="https://img.shields.io/badge/-LaTeX-4d4d4d?style=flat-square&logo=latex">
 </p>
 
