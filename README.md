@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/j3PkayHKs1kAPTEeoc/giphy.gif">
+  <img src="https://media.giphy.com/media/Y151Ma82nCfICowKP8/giphy.gif">
 </p>
 
 #### ⚡ <samp>About</samp>
