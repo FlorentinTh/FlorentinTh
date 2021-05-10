@@ -2,8 +2,12 @@
   <img src="https://media.giphy.com/media/Y151Ma82nCfICowKP8/giphy.gif" width="854px">
 </p>
 
+### <samp><strong>Florentin Thullier, Ph. D.</strong></samp>
+
+<br>
+
 #### ⚡ <samp>About</samp>
-<samp>I'm a Ph.D. Candidate in Computer Science. My concentration is related to Machine Learning, Data Science and Artificial Intelligence at large. I was born & raised in France and today, I live in Canada.</samp>
+<samp>I'm a postdoctoral researcher in computer science. My concentration is related to Machine Learning, Data Science and Artificial Intelligence at large. I was born & raised in France and today, I live in Canada.</samp>
 
 #### 🎓 <samp>School</samp>
 
