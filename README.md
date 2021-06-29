@@ -17,7 +17,8 @@
 #### 🔎 <samp>Researches</samp>
 
 <p align="left">
-    <a src="https://orcid.org/0000-0002-0334-6168"><img src="https://img.shields.io/badge/-ORCID-4d4d4d?style=flat-square&logo=orcid"></a> <a src="https://www.mendeley.com/profiles/florentin-thullier/"><img src="https://img.shields.io/badge/-Mendeley-4d4d4d?style=flat-square&logo=mendeley"></a> <a src="https://www.researchgate.net/profile/Florentin_Thullier"><img src="https://img.shields.io/badge/-ResearchGate-4d4d4d?style=flat-square&logo=researchgate"></a> <a src="https://scholar.google.com/citations?user=7SaWtXAAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Scholar-4d4d4d?style=flat-square&logo=google%20scholar"></a>
+
+  <a href="https://orcid.org/0000-0002-0334-6168" rel="orcid">![orcid](https://img.shields.io/badge/-ORCID-4d4d4d?style=flat-square&logo=orcid)</a> <a href="https://www.mendeley.com/profiles/florentin-thullier/" rel="mendeley">![mendeley](https://img.shields.io/badge/-Mendeley-4d4d4d?style=flat-square&logo=mendeley)</a> <a href="https://www.researchgate.net/profile/Florentin_Thullier" rel="researchgate">![researchgate](https://img.shields.io/badge/-ResearchGate-4d4d4d?style=flat-square&logo=researchgate)</a> <a href="https://scholar.google.com/citations?user=7SaWtXAAAAAJ&hl=en" rel="scholar">![scholar](https://img.shields.io/badge/-Scholar-4d4d4d?style=flat-square&logo=google%20scholar)</a>
 </p>
 
 
