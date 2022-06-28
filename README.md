@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/Y151Ma82nCfICowKP8/giphy.gif" alt="👋 Hi there! I'm FlorentinTh)" title="👋 Hi there! I'm FlorentinTh"/>](https://github.com/FlorentinTh/)
+[<img src="https://media.giphy.com/media/Y151Ma82nCfICowKP8/giphy.gif" alt="👋 Hi there! I'm FlorentinTh)" title="👋 Hi there! I'm FlorentinTh" width="100%"/>](https://github.com/FlorentinTh/)
 
 ### <samp><strong>Florentin Thullier, Ph. D.</strong></samp>
 
